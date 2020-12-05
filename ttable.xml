@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="ttable.xsl"?>
+<gradeReport id="120851">
+    <date>10-06-2008</date>
+    <subject>Computer Science Fundamentals</subject>
+    <examiner>prof.Litvinov</examiner>
+    <gradeList>
+        <gradeRecord id="1">
+            <student>Yelaman</student>
+            <grade>4</grade>
+        </gradeRecord>
+        <gradeRecord id="2">
+            <student>Yeldar</student>
+            <grade>3</grade>
+        </gradeRecord>
+        <gradeRecord id="3">
+            <student>Dastan</student>
+            <grade>5</grade>
+        </gradeRecord>
+        <gradeRecord id="4">
+            <student>Maxim</student>
+            <grade>2</grade>
+        </gradeRecord>
+    </gradeList>
+</gradeReport>
